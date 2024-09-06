@@ -1,0 +1,20 @@
+/* EventsMap.css */
+
+.leaflet-popup-content-wrapper {
+    padding: 0;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+  }
+  
+  .leaflet-popup-content {
+    margin: 10px;
+    color: #333;
+    font-size: 0.875rem; /* 14px */
+    line-height: 1.4;
+  }
+  
+  .leaflet-popup-tip-container {
+    display: none; /* Hide the tip arrow */
+  }
+  

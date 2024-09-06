@@ -1,0 +1,65 @@
+/* .dark-green-toast .p-toast-message {
+  background-color: #006400; 
+  color: white; 
+} */
+
+
+.dark-green-toast .p-toast-message {
+  background-color: #006400 !important; /* Dark green color */
+  color: white !important; /* White text color */
+  font-size: 16px !important; /* Larger font size for better readability */
+  padding: 20px !important; /* More padding for better spacing */
+  border-radius: 8px !important; /* Rounded corners */
+}
+
+/* Ensure transition effects are applied */
+.p-toast {
+  transition: opacity 0.5s ease-in-out !important;
+}
+
+
+
+
+
+
+
+/* .App {
+  text-align: center;
+}
+
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
